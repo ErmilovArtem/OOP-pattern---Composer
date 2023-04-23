@@ -1,2 +1,2 @@
 # OOP-pattern---Composer
-Реализация порождающего паттерна composer на java
+Реализация структурирующего паттерна composer на java
